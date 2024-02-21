@@ -1,0 +1,19 @@
+{
+  "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "usernname": "Admin",
+  "password": "admin123",
+  "fromMonth": "March",
+  "fromYear": "2000",
+  "fromDate": "20",
+  "toMonth": "November",
+  "toYear": "2001",
+  "toDate": "2",
+  "status": "Rejected",
+  "type": "US - Bereavement",
+  "employeeName": "Orange  Test",
+  "subUnit": "Engineering",
+  "generateFor": "Employee",
+  "location": "New York Sales Office",
+  "jobTitle": "Automaton Tester",
+  "situation": "Yes"
+}
