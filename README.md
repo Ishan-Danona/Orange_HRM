@@ -13,22 +13,17 @@ Enter valid credentials (username and password).
 Click on the "Login" button.
 Verify successful login.
 
-2. Logout:
-Locate the logout option on the dashboard.
-Click on the logout option.
-Confirm successful logout.
-
-3. Dashboard Navigation:
+2. Dashboard Navigation:
 Navigate through different sections of the dashboard.
 Test links/buttons related to Employee Information, PIM, Recruitment, etc.
 Verify navigation without errors.
 
-5. Timesheet:
+3. Timesheet:
 Navigate to the Timesheet section.
 Test adding, editing, and deleting timesheets.
 Verify accurate timesheet recording.
 
-6. Leave Section:
+4. Leave Section:
 Go to the Leave section.
 Test applying for leave, including date and type selection.
 Verify correct leave request submission.
